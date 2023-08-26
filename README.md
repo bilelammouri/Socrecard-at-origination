@@ -9,7 +9,5 @@ This project dedicated to the comprehensive implementation of an origination sco
   2- "default of credit card clients" : https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients 
   
   3- "Bank Direct Marketing" : https://www.kaggle.com/datasets/psvishnu/bank-direct-marketing  
-  
-  4- "Give Me Some Credit" : https://www.kaggle.com/c/GiveMeSomeCredit 
-  
-  5- "Econometric Analysis" : https://www.kaggle.com/datasets/dansbecker/aer-credit-card-data 
+    
+  4- "Econometric Analysis" : https://www.kaggle.com/datasets/dansbecker/aer-credit-card-data 
